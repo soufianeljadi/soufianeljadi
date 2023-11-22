@@ -22,7 +22,7 @@ I'm always eager to learn and explore new technologies. Currently, I'm focusing 
 
 ## 💬 Let's Connect
 
-- LinkedIn: [soufianeljadi](link-to-linkedin)
+- LinkedIn: [soufianeljadi]([link-to-linkedin](https://www.linkedin.com/in/soufianeljadi/))
 - Twitter: [@soufianeljadi]([(https://twitter.com/soufianeljadi))
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about web development and technology.
