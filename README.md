@@ -1,4 +1,4 @@
-# Hi there, I'm Soufiane El Jadi! 👋
+# Hi there, I'm Soufiane EL JADI! 
 
 I'm a passionate web developer based in Fquih Ben Salah. I love building responsive and user-friendly web applications that make a positive impact. This is my GitHub profile where you can find a collection of my projects and contributions.
 
@@ -10,7 +10,7 @@ Here are some of the technologies and tools I work with:
 - Backend: Laravel, PHP
 - Database: MySQL
 - Version Control: Git, GitHub
-- Other: Bootstrap
+- Other: C, CPP, Java, J2EE, Bootstrap
 
 Feel free to explore my repositories for more!
 
