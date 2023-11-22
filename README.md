@@ -2,6 +2,9 @@
 
 I'm a passionate web developer based in Fquih Ben Salah, dedicated to crafting responsive and user-friendly web applications that leave a positive impact. Welcome to my GitHub profile, where you can explore a collection of my projects and contributions.
 
+<!-- Add a cover GIF here, replace 'your-gif-link' with the actual link -->
+![Cover GIF](your-gif-link)
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
@@ -25,6 +28,10 @@ I thrive on learning and exploring new technologies. Currently, my focus lies on
 
 Whether you have questions, want to collaborate, or just discuss web development and technology, I'm always open to connecting.
 
+<!-- Add any additional badges you'd like, replace 'badge-link' with the actual link -->
+![Badge 1](badge-link)
+![Badge 2](badge-link)
+
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=soufianeljadi&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
@@ -32,4 +39,3 @@ Whether you have questions, want to collaborate, or just discuss web development
 <!-- Additional badges and sections can be added based on your preferences -->
 
 Feel free to explore, and don't hesitate to reach out. Looking forward to connecting with fellow developers and enthusiasts!
-
