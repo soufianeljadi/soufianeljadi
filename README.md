@@ -18,12 +18,12 @@ Feel free to explore my repositories for more!
 
 I'm always eager to learn and explore new technologies. Currently, I'm focusing on:
 
-- 42cursus
+- [42cursus](https://github.com/soufianeljadi/42cursus)
 
 ## 💬 Let's Connect
 
-- LinkedIn: [soufianeljadi]([link-to-linkedin](https://www.linkedin.com/in/soufianeljadi/))
-- Twitter: [@soufianeljadi]([(https://twitter.com/soufianeljadi))
+- LinkedIn: [soufianeljadi](https://www.linkedin.com/in/soufianeljadi/)
+- Twitter: [@soufianeljadi](https://twitter.com/soufianeljadi)
 
 Feel free to reach out if you have any questions, want to collaborate on a project, or just chat about web development and technology.
 
@@ -32,4 +32,3 @@ Feel free to reach out if you have any questions, want to collaborate on a proje
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=soufianeljadi&show_icons=true&count_private=true&hide=contribs,prs)
 
 <!-- Additional badges and sections can be added based on your preferences -->
-
