@@ -2,12 +2,12 @@
 
 I'm a passionate web developer based in Fquih Ben Salah, dedicated to crafting responsive and user-friendly web applications that leave a positive impact. Welcome to my GitHub profile, where you can explore a collection of my projects and contributions.
 
-[![sel-jadi's 42 stats](https://badge.mediaplus.ma/greenbinary/sel-jadi)](https://github.com/oakoudad/badge42)
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/greenbinary/sel-jadi" alt="sel-jadi's 42 stats">
   </a>
 </div>
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
