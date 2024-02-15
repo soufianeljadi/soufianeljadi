@@ -2,6 +2,7 @@
 
 I'm a passionate web developer based in Fquih Ben Salah, dedicated to crafting responsive and user-friendly web applications that leave a positive impact. Welcome to my GitHub profile, where you can explore a collection of my projects and contributions.
 
+https://badge.mediaplus.ma/greenbinary/sel-jadi
 
 ## 🔧 Technologies & Tools
 
