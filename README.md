@@ -1,6 +1,8 @@
 # Hello, I'm Soufiane EL JADI! 👋
 
-I'm a passionate web developer based in Khouribga, dedicated to crafting responsive and user-friendly web applications that leave a positive impact. Welcome to my GitHub profile, where you can explore a collection of my projects and contributions.
+I'm a passionate technologist with a solid foundation in C, C++, Java, J2EE, PHP, Laravel, Shell Scripting, and more. I pursued my education at University Sultan Moulay Slimane, where I earned a diploma as a Technicien Specialise after two years of dedicated study.
+
+Continuing my quest for knowledge and growth, I embarked on a journey at School [1337](https://1337.ma/en/), where I honed my skills further and delved deeper into the world of computer science and programming.
 
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
