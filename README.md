@@ -22,7 +22,7 @@ Feel free to delve into my repositories for a closer look!
 
 ## 🌱 Currently Learning
 
-I thrive on learning and exploring new technologies. Currently, my focus lies on mastering the [42cursus]((https://1337.ma/en/)).
+I thrive on learning and exploring new technologies. Currently, my focus lies on mastering the [42cursus](https://1337.ma/en/).
 
 ## 💬 Let's Connect
 
