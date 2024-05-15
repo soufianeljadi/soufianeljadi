@@ -1,4 +1,4 @@
-# Salamalaykum, I'm Soufiane EL JADI! 
+# Marhaban, I'm Soufiane EL JADI! 
 
 I'm a passionate technologist with a solid foundation in C, C++, Java, J2EE, PHP, Laravel, Shell Scripting, and more. I pursued my education at University Sultan Moulay Slimane, where I earned a diploma as a Technicien Specialise after two years of dedicated study.
 
