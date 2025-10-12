@@ -16,9 +16,9 @@ Here are some of the technologies and tools I work with:
 
 - **Frontend:** HTML, CSS, JavaScript, React
 - **Backend:** Laravel, PHP
-- **Database:** MySQL
+- **Database:** MySQL, Mariadb
 - **Version Control:** Git, GitHub
-- **Other:** C, CPP, Java, J2EE, Bootstrap Tailwind
+- **Other:** C, CPP, Java, J2EE, Bootstrap, Tailwind
 
 Feel free to delve into my repositories for a closer look!
 
